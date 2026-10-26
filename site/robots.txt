@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace YOUR-DOMAIN before launch (see README)
+Sitemap: https://YOUR-DOMAIN/sitemap.xml
